@@ -1,0 +1,7 @@
+casos de uso ja transformados em diagramas
+gestao de usuarios
+gestao de alunos
+gestao de funcionarios
+gerir disciplinas
+gerir periodos
+

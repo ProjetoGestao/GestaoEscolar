@@ -4,4 +4,5 @@ gestao de alunos
 gestao de funcionarios
 gerir disciplinas
 gerir periodos
+geração de boletins
 
